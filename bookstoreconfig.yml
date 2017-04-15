@@ -1,2 +1,7 @@
 ---
 description: this is a repository to hold book store configuration
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: "http://primaryregistry:8011/eureka,http://primaryregistry:8012/eureka,http://primaryregistry:8013/eureka"
