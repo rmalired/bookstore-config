@@ -6,4 +6,6 @@ eureka:
     serviceUrl:
       defaultZone: "http://primaryregistry:9011/eureka,http://secondaryregistry:9012/eureka,http://tertiaryregistry:9013/eureka"
       
-discountPercentage: 10
+
+bookstore:
+  discountPercentage: 10
