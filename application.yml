@@ -8,4 +8,4 @@ eureka:
       
 
 bookstore:
-  discountPercentage: 10
+  discountPercentage: 12

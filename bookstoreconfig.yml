@@ -7,4 +7,4 @@ eureka:
       defaultZone: "http://primaryregistry:9011/eureka,http://secondaryregistry:9012/eureka,http://tertiaryregistry:9013/eureka"
       
 bookstore:
-  discountPercentage: 10
+  discountPercentage: 12
